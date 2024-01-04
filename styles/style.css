@@ -21,6 +21,7 @@
 body {
   background-color: var(--seasalt);
   height: 100vh;
+  overflow: hidden;
 }
 
 #cursors {

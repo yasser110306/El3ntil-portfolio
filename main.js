@@ -1,4 +1,4 @@
-// page new cursor
+// page custom cursor
 document.body.style.cursor = "none";
 const coords = { x: 0, y: 0 };
 const cursors = document.querySelectorAll(".cursor");
